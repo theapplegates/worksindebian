@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://cute-taffy-baf884.netlify.app/"
+baseURL = "https://willowy-taiyaki-79672e.netlify.app/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
